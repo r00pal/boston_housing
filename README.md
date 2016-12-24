@@ -34,7 +34,8 @@ Files
 - `boston_housing.ipynb`: This is the main file of the project
 - `housing.csv`: The project dataset.
 - `visuals.py`: This Python script provides supplementary visualizations for the project.
-#Run
+
+Run
 
 In a terminal or command window, navigate to the top-level project directory boston_housing/ (that contains this file) and run one of the following commands:
 
